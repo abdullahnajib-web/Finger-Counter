@@ -6,4 +6,5 @@ The process begins with capturing an image of the hand through a camera and appl
 This program combines various technologies, such as image processing (OpenCV), landmark recognition, serial communication, and the use of ESP32, to create an application that can count the number of open fingers and display the result on a dot matrix display device.
 
 # Video User's Guide
-![image](https://github.com/abdullahnajib-web/Finger-Counter/blob/main/documents/manual.mp4)
+https://github.com/abdullahnajib-web/Finger-Counter/assets/85467959/30ee4352-c32e-4670-bf1b-b2e75b9e7f96
+
